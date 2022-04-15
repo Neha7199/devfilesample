@@ -5,7 +5,7 @@ projects:
   - name: nodejs-sample
     source:
       type: git
-      location: 'https://github.com/Neha7199/web-nodejs-sample-workspace.git'
+      location: 'https://github.com/Neha7199/devfilesample.git'
 components:
   - alias: theia-editor
     type: cheEditor
